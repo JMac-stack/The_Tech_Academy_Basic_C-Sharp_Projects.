@@ -1,0 +1,7 @@
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Assignment_Console_App\Assignment_Console_App\bin\Debug\Assignment_Console_App.exe.config
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Assignment_Console_App\Assignment_Console_App\bin\Debug\Assignment_Console_App.exe
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Assignment_Console_App\Assignment_Console_App\bin\Debug\Assignment_Console_App.pdb
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Assignment_Console_App\Assignment_Console_App\obj\Debug\Assignment_Console_App.csproj.AssemblyReference.cache
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Assignment_Console_App\Assignment_Console_App\obj\Debug\Assignment_Console_App.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Assignment_Console_App\Assignment_Console_App\obj\Debug\Assignment_Console_App.exe
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Assignment_Console_App\Assignment_Console_App\obj\Debug\Assignment_Console_App.pdb
