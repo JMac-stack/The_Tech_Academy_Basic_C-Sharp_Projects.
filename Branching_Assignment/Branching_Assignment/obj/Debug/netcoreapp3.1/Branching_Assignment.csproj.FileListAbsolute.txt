@@ -1,0 +1,14 @@
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Branching_Assignment\Branching_Assignment\bin\Debug\netcoreapp3.1\Branching_Assignment.exe
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Branching_Assignment\Branching_Assignment\bin\Debug\netcoreapp3.1\Branching_Assignment.deps.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Branching_Assignment\Branching_Assignment\bin\Debug\netcoreapp3.1\Branching_Assignment.runtimeconfig.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Branching_Assignment\Branching_Assignment\bin\Debug\netcoreapp3.1\Branching_Assignment.runtimeconfig.dev.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Branching_Assignment\Branching_Assignment\bin\Debug\netcoreapp3.1\Branching_Assignment.dll
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Branching_Assignment\Branching_Assignment\bin\Debug\netcoreapp3.1\Branching_Assignment.pdb
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Branching_Assignment\Branching_Assignment\obj\Debug\netcoreapp3.1\Branching_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Branching_Assignment\Branching_Assignment\obj\Debug\netcoreapp3.1\Branching_Assignment.AssemblyInfoInputs.cache
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Branching_Assignment\Branching_Assignment\obj\Debug\netcoreapp3.1\Branching_Assignment.AssemblyInfo.cs
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Branching_Assignment\Branching_Assignment\obj\Debug\netcoreapp3.1\Branching_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Branching_Assignment\Branching_Assignment\obj\Debug\netcoreapp3.1\Branching_Assignment.sourcelink.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Branching_Assignment\Branching_Assignment\obj\Debug\netcoreapp3.1\Branching_Assignment.dll
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Branching_Assignment\Branching_Assignment\obj\Debug\netcoreapp3.1\Branching_Assignment.pdb
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Branching_Assignment\Branching_Assignment\obj\Debug\netcoreapp3.1\Branching_Assignment.genruntimeconfig.cache
