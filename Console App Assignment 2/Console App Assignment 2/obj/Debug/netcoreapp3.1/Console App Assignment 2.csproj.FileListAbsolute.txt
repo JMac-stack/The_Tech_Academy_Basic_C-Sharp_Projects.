@@ -1,0 +1,14 @@
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Console App Assignment 2\Console App Assignment 2\bin\Debug\netcoreapp3.1\Console App Assignment 2.exe
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Console App Assignment 2\Console App Assignment 2\bin\Debug\netcoreapp3.1\Console App Assignment 2.deps.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Console App Assignment 2\Console App Assignment 2\bin\Debug\netcoreapp3.1\Console App Assignment 2.runtimeconfig.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Console App Assignment 2\Console App Assignment 2\bin\Debug\netcoreapp3.1\Console App Assignment 2.runtimeconfig.dev.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Console App Assignment 2\Console App Assignment 2\bin\Debug\netcoreapp3.1\Console App Assignment 2.dll
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Console App Assignment 2\Console App Assignment 2\bin\Debug\netcoreapp3.1\Console App Assignment 2.pdb
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Console App Assignment 2\Console App Assignment 2\obj\Debug\netcoreapp3.1\Console App Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Console App Assignment 2\Console App Assignment 2\obj\Debug\netcoreapp3.1\Console App Assignment 2.AssemblyInfoInputs.cache
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Console App Assignment 2\Console App Assignment 2\obj\Debug\netcoreapp3.1\Console App Assignment 2.AssemblyInfo.cs
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Console App Assignment 2\Console App Assignment 2\obj\Debug\netcoreapp3.1\Console App Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Console App Assignment 2\Console App Assignment 2\obj\Debug\netcoreapp3.1\Console App Assignment 2.sourcelink.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Console App Assignment 2\Console App Assignment 2\obj\Debug\netcoreapp3.1\Console App Assignment 2.dll
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Console App Assignment 2\Console App Assignment 2\obj\Debug\netcoreapp3.1\Console App Assignment 2.pdb
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Console App Assignment 2\Console App Assignment 2\obj\Debug\netcoreapp3.1\Console App Assignment 2.genruntimeconfig.cache
