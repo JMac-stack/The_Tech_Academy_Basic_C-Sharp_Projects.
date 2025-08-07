@@ -1,0 +1,14 @@
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Class_Assignment\Method_Class_Assignment\bin\Debug\netcoreapp3.1\Method_Class_Assignment.exe
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Class_Assignment\Method_Class_Assignment\bin\Debug\netcoreapp3.1\Method_Class_Assignment.deps.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Class_Assignment\Method_Class_Assignment\bin\Debug\netcoreapp3.1\Method_Class_Assignment.runtimeconfig.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Class_Assignment\Method_Class_Assignment\bin\Debug\netcoreapp3.1\Method_Class_Assignment.runtimeconfig.dev.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Class_Assignment\Method_Class_Assignment\bin\Debug\netcoreapp3.1\Method_Class_Assignment.dll
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Class_Assignment\Method_Class_Assignment\bin\Debug\netcoreapp3.1\Method_Class_Assignment.pdb
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Class_Assignment\Method_Class_Assignment\obj\Debug\netcoreapp3.1\Method_Class_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Class_Assignment\Method_Class_Assignment\obj\Debug\netcoreapp3.1\Method_Class_Assignment.AssemblyInfoInputs.cache
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Class_Assignment\Method_Class_Assignment\obj\Debug\netcoreapp3.1\Method_Class_Assignment.AssemblyInfo.cs
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Class_Assignment\Method_Class_Assignment\obj\Debug\netcoreapp3.1\Method_Class_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Class_Assignment\Method_Class_Assignment\obj\Debug\netcoreapp3.1\Method_Class_Assignment.sourcelink.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Class_Assignment\Method_Class_Assignment\obj\Debug\netcoreapp3.1\Method_Class_Assignment.dll
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Class_Assignment\Method_Class_Assignment\obj\Debug\netcoreapp3.1\Method_Class_Assignment.pdb
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Method_Class_Assignment\Method_Class_Assignment\obj\Debug\netcoreapp3.1\Method_Class_Assignment.genruntimeconfig.cache
