@@ -1,4 +1,5 @@
 ﻿using System;
+using System.CodeDom;
 using System.Collections.Generic;
 using System.Text;
 
@@ -11,5 +12,7 @@ namespace Methods_and_Objects_Assignment
         {
             this.Id = id;
         }
+
+        public static 
     }
 }
