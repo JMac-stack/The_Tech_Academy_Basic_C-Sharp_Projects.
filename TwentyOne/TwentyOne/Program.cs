@@ -9,7 +9,7 @@ namespace TwentyOne
         {
 
             Deck deck = new Deck();
-            deck.Shuffle(times: 1);
+            deck.Shuffle(times: 0);
 
             deck.ViewCards(); // Displays cards of deck on screen in order.
         }

@@ -1,0 +1,14 @@
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Parsing_Enums_Assignment\Parsing_Enums_Assignment\bin\Debug\netcoreapp3.1\Parsing_Enums_Assignment.exe
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Parsing_Enums_Assignment\Parsing_Enums_Assignment\bin\Debug\netcoreapp3.1\Parsing_Enums_Assignment.deps.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Parsing_Enums_Assignment\Parsing_Enums_Assignment\bin\Debug\netcoreapp3.1\Parsing_Enums_Assignment.runtimeconfig.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Parsing_Enums_Assignment\Parsing_Enums_Assignment\bin\Debug\netcoreapp3.1\Parsing_Enums_Assignment.runtimeconfig.dev.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Parsing_Enums_Assignment\Parsing_Enums_Assignment\bin\Debug\netcoreapp3.1\Parsing_Enums_Assignment.dll
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Parsing_Enums_Assignment\Parsing_Enums_Assignment\bin\Debug\netcoreapp3.1\Parsing_Enums_Assignment.pdb
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Parsing_Enums_Assignment\Parsing_Enums_Assignment\obj\Debug\netcoreapp3.1\Parsing_Enums_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Parsing_Enums_Assignment\Parsing_Enums_Assignment\obj\Debug\netcoreapp3.1\Parsing_Enums_Assignment.AssemblyInfoInputs.cache
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Parsing_Enums_Assignment\Parsing_Enums_Assignment\obj\Debug\netcoreapp3.1\Parsing_Enums_Assignment.AssemblyInfo.cs
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Parsing_Enums_Assignment\Parsing_Enums_Assignment\obj\Debug\netcoreapp3.1\Parsing_Enums_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Parsing_Enums_Assignment\Parsing_Enums_Assignment\obj\Debug\netcoreapp3.1\Parsing_Enums_Assignment.sourcelink.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Parsing_Enums_Assignment\Parsing_Enums_Assignment\obj\Debug\netcoreapp3.1\Parsing_Enums_Assignment.dll
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Parsing_Enums_Assignment\Parsing_Enums_Assignment\obj\Debug\netcoreapp3.1\Parsing_Enums_Assignment.pdb
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Parsing_Enums_Assignment\Parsing_Enums_Assignment\obj\Debug\netcoreapp3.1\Parsing_Enums_Assignment.genruntimeconfig.cache
