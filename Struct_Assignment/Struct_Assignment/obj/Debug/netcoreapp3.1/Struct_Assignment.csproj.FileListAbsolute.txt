@@ -1,0 +1,14 @@
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Struct_Assignment\Struct_Assignment\bin\Debug\netcoreapp3.1\Struct_Assignment.exe
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Struct_Assignment\Struct_Assignment\bin\Debug\netcoreapp3.1\Struct_Assignment.deps.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Struct_Assignment\Struct_Assignment\bin\Debug\netcoreapp3.1\Struct_Assignment.runtimeconfig.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Struct_Assignment\Struct_Assignment\bin\Debug\netcoreapp3.1\Struct_Assignment.runtimeconfig.dev.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Struct_Assignment\Struct_Assignment\bin\Debug\netcoreapp3.1\Struct_Assignment.dll
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Struct_Assignment\Struct_Assignment\bin\Debug\netcoreapp3.1\Struct_Assignment.pdb
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Struct_Assignment\Struct_Assignment\obj\Debug\netcoreapp3.1\Struct_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Struct_Assignment\Struct_Assignment\obj\Debug\netcoreapp3.1\Struct_Assignment.AssemblyInfoInputs.cache
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Struct_Assignment\Struct_Assignment\obj\Debug\netcoreapp3.1\Struct_Assignment.AssemblyInfo.cs
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Struct_Assignment\Struct_Assignment\obj\Debug\netcoreapp3.1\Struct_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Struct_Assignment\Struct_Assignment\obj\Debug\netcoreapp3.1\Struct_Assignment.sourcelink.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Struct_Assignment\Struct_Assignment\obj\Debug\netcoreapp3.1\Struct_Assignment.dll
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Struct_Assignment\Struct_Assignment\obj\Debug\netcoreapp3.1\Struct_Assignment.pdb
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Struct_Assignment\Struct_Assignment\obj\Debug\netcoreapp3.1\Struct_Assignment.genruntimeconfig.cache
