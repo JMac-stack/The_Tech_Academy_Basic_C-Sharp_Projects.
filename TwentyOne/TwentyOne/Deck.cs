@@ -40,7 +40,7 @@ namespace TwentyOne
             }
         }
 
-        public void ViewCards()
+        public void ListCards()
         {
             foreach (Card card in Cards)
             {
