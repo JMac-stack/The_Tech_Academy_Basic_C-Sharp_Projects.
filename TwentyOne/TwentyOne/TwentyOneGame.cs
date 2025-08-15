@@ -16,8 +16,9 @@ namespace TwentyOne
             foreach (Player player in Players)
             {
                 player.Stay = false;
+                player.Hand.Clear();
             }
-            Dealer.Hand = new List<Card>();
+            Dealer.Hand.Clear();
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
             Dealer.Deck.Shuffle();
