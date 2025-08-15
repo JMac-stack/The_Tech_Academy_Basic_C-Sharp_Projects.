@@ -1,0 +1,14 @@
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Datetime_Assignment\Datetime_Assignment\bin\Debug\netcoreapp3.1\Datetime_Assignment.exe
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Datetime_Assignment\Datetime_Assignment\bin\Debug\netcoreapp3.1\Datetime_Assignment.deps.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Datetime_Assignment\Datetime_Assignment\bin\Debug\netcoreapp3.1\Datetime_Assignment.runtimeconfig.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Datetime_Assignment\Datetime_Assignment\bin\Debug\netcoreapp3.1\Datetime_Assignment.runtimeconfig.dev.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Datetime_Assignment\Datetime_Assignment\bin\Debug\netcoreapp3.1\Datetime_Assignment.dll
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Datetime_Assignment\Datetime_Assignment\bin\Debug\netcoreapp3.1\Datetime_Assignment.pdb
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Datetime_Assignment\Datetime_Assignment\obj\Debug\netcoreapp3.1\Datetime_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Datetime_Assignment\Datetime_Assignment\obj\Debug\netcoreapp3.1\Datetime_Assignment.AssemblyInfoInputs.cache
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Datetime_Assignment\Datetime_Assignment\obj\Debug\netcoreapp3.1\Datetime_Assignment.AssemblyInfo.cs
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Datetime_Assignment\Datetime_Assignment\obj\Debug\netcoreapp3.1\Datetime_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Datetime_Assignment\Datetime_Assignment\obj\Debug\netcoreapp3.1\Datetime_Assignment.sourcelink.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Datetime_Assignment\Datetime_Assignment\obj\Debug\netcoreapp3.1\Datetime_Assignment.dll
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Datetime_Assignment\Datetime_Assignment\obj\Debug\netcoreapp3.1\Datetime_Assignment.pdb
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Datetime_Assignment\Datetime_Assignment\obj\Debug\netcoreapp3.1\Datetime_Assignment.genruntimeconfig.cache
