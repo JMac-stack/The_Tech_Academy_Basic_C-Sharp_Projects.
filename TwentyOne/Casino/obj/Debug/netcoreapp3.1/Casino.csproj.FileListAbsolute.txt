@@ -1,0 +1,10 @@
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\Casino\bin\Debug\netcoreapp3.1\Casino.deps.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\Casino\bin\Debug\netcoreapp3.1\Casino.dll
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\Casino\bin\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfoInputs.cache
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfo.cs
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.sourcelink.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.dll
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.pdb

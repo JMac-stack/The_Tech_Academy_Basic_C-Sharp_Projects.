@@ -18,11 +18,15 @@ C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\Tw
 C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.runtimeconfig.dev.json
 C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.dll
 C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.pdb
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\Casino.dll
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.AssemblyReference.cache
 C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.AssemblyInfoInputs.cache
 C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.AssemblyInfo.cs
 C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.CoreCompileInputs.cache
 C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.sourcelink.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.Up2Date
 C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.dll
 C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.pdb
 C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.genruntimeconfig.cache

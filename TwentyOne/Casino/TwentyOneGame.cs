@@ -4,8 +4,9 @@ using System.Data;
 using System.Linq;
 using System.Security;
 using System.Text;
+using Casino.Interfaces;
 
-namespace TwentyOne
+namespace Casino.TwentyOne
 {
     public class TwentyOneGame : Game, IWalkAway
     {
@@ -130,6 +131,7 @@ namespace TwentyOne
                     Players.Where(x => x.Name == entry.Key.Name).First().Balance += (entry.Value * 2);
                     Dealer.Balance -= entry.Value;
                 }
+
                 return;
             }
             foreach (Player player in Players)

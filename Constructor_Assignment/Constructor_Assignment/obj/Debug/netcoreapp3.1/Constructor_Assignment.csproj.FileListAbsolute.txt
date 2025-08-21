@@ -1,0 +1,14 @@
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Constructor_Assignment\Constructor_Assignment\bin\Debug\netcoreapp3.1\Constructor_Assignment.exe
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Constructor_Assignment\Constructor_Assignment\bin\Debug\netcoreapp3.1\Constructor_Assignment.deps.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Constructor_Assignment\Constructor_Assignment\bin\Debug\netcoreapp3.1\Constructor_Assignment.runtimeconfig.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Constructor_Assignment\Constructor_Assignment\bin\Debug\netcoreapp3.1\Constructor_Assignment.runtimeconfig.dev.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Constructor_Assignment\Constructor_Assignment\bin\Debug\netcoreapp3.1\Constructor_Assignment.dll
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Constructor_Assignment\Constructor_Assignment\bin\Debug\netcoreapp3.1\Constructor_Assignment.pdb
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Constructor_Assignment\Constructor_Assignment\obj\Debug\netcoreapp3.1\Constructor_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Constructor_Assignment\Constructor_Assignment\obj\Debug\netcoreapp3.1\Constructor_Assignment.AssemblyInfoInputs.cache
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Constructor_Assignment\Constructor_Assignment\obj\Debug\netcoreapp3.1\Constructor_Assignment.AssemblyInfo.cs
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Constructor_Assignment\Constructor_Assignment\obj\Debug\netcoreapp3.1\Constructor_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Constructor_Assignment\Constructor_Assignment\obj\Debug\netcoreapp3.1\Constructor_Assignment.sourcelink.json
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Constructor_Assignment\Constructor_Assignment\obj\Debug\netcoreapp3.1\Constructor_Assignment.dll
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Constructor_Assignment\Constructor_Assignment\obj\Debug\netcoreapp3.1\Constructor_Assignment.pdb
+C:\Users\james\source\repos\The_Tech_Academy_Basic_C-Sharp_Projects\Constructor_Assignment\Constructor_Assignment\obj\Debug\netcoreapp3.1\Constructor_Assignment.genruntimeconfig.cache
