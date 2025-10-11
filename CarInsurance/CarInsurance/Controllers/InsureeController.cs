@@ -16,10 +16,10 @@ namespace CarInsurance.Controllers
 
         public ActionResult Admin() // Controller for Admin view.
         {
-            List<InsureeViewModel> insureeVMs = new List<InsureeViewModel>(); 
-            foreach(Insuree i in db.Insurees)
+            List<InsureeViewModel> insureeVMs = new List<InsureeViewModel>();
+            foreach (Insuree i in db.Insurees)
             {
-                InsureeViewModel insureeVM = new InsureeViewModel(i.FirstName,i.LastName,i.EmailAddress,i.Quote);
+                InsureeViewModel insureeVM = new InsureeViewModel(i.FirstName, i.LastName, i.EmailAddress, i.Quote);
                 insureeVMs.Add(insureeVM);
             }
             return View(insureeVMs);
@@ -59,6 +59,7 @@ namespace CarInsurance.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree)
         {
+
             decimal quote = 50; // $50 / month.
 
             // Work out age in years.
