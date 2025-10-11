@@ -1,2 +1,0 @@
-C:\Users\james\Documents\repos\The_Tech_Academy_Basic_C-Sharp_Projects\CarInsurance\CarInsurance\obj\Debug\CarInsurance.dll
-C:\Users\james\Documents\repos\The_Tech_Academy_Basic_C-Sharp_Projects\CarInsurance\CarInsurance\obj\Debug\CarInsurance.pdb

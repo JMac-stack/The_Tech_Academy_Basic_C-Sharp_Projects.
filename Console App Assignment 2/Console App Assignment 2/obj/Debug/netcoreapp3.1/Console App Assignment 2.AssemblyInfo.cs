@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Console App Assignment 2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7016d1304e0a26339879404931cb1306a9487bdf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d75582ff9ef3722097cda6c3ecce77a29aea6451")]
 [assembly: System.Reflection.AssemblyProductAttribute("Console App Assignment 2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Console App Assignment 2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

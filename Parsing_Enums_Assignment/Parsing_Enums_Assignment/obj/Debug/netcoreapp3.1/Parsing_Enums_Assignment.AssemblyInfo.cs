@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Parsing_Enums_Assignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d11fca9d2a0d235b61c7a651721b5d20fc672b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d75582ff9ef3722097cda6c3ecce77a29aea6451")]
 [assembly: System.Reflection.AssemblyProductAttribute("Parsing_Enums_Assignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Parsing_Enums_Assignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

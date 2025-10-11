@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Math_and_Comparison_Operators_Assignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed892cc47370738606450450eb54668140157d56")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d75582ff9ef3722097cda6c3ecce77a29aea6451")]
 [assembly: System.Reflection.AssemblyProductAttribute("Math_and_Comparison_Operators_Assignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Math_and_Comparison_Operators_Assignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
